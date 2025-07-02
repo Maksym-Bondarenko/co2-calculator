@@ -3,7 +3,7 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
-### Environment Variables (API keys, etc.) ###
+### Environment Variables file (API keys, etc.) ###
 .env
 
 ### IntelliJ IDEA ###
